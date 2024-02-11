@@ -1,4 +1,4 @@
-# Hey there! I'm Akhlas Hsshmi 👋
+# Hey there! I'm Akhlas Hashmi 👋
 
 ![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-blue)
 
