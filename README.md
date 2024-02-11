@@ -2,9 +2,7 @@
 
 ![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-blue)
 
-💻 I'm not your average app developer – I love solving problems with code! With a year of Flutter experience, I'm all about building apps that are user-friendly and tackle real issues.
-
-🎨 On the design side, I've been crafting graphics and user experiences for over 6 years. And in the coding world, I've been working with C/C++ and Python for over 5 years, before diving into Flutter and Dart a year ago.
+I am a dynamic IT professional with 8+ years of hands-on experience in diverse areas, including Programming, Mobile App Development, Web Development, Graphics Designing, and Word Processing. Proficient in C++, Python, and specialized in Dart for Flutter development. Driven by a passion for innovation, actively pursuing a career in Mobile App Development with Flutter. Proven track record of delivering exceptional results, bringing expertise and relentless commitment to excellence to every project.
 
 ## Let's Connect & Collaborate! 🤝
 
