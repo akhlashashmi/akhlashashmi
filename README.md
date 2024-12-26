@@ -1,4 +1,4 @@
-# Hi there, I'm Akhlas Ahmed Hashmi 👋
+# I'm Akhlas Ahmed
 
 ## 🌟 Professional Overview
 Passionate software developer with **5+ years** of technology expertise, specializing in **Flutter** mobile development and **Python** backend solutions. Currently crafting innovative hybrid mobile applications, I bridge the gap between cutting-edge mobile technologies and robust backend systems. I am also currently exploring **ReactJS** for front-end web development and **NodeJS** for backend solutions.
